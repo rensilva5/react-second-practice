@@ -1,7 +1,7 @@
-const BlogList = ({blogs, title}) => {     //destructuring
+const BlogList = ({blogs, title}) => {  //destructuring
 
     // const blogs = props.blogs     //All alternative
-    // const title = props.title     //all alternative
+    // const title = props.title     //All alternative
 
     return ( 
         <div className="blog-list">
